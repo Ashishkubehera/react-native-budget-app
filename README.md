@@ -34,7 +34,3 @@ You need [Expo](https://expo.io/) pre-installed and you’re good to go.
 - remove incomes/costs
 - count percentage costs
 
-## Improve
-
-Feedback is more than appreciated [GitHub](https://github.com/fromtexas).
-You are 100% allowed to use this app for both personal and commercial use, but not claim it as your own. A credit to the original author is of course highly appreciated!
